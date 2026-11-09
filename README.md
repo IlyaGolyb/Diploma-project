@@ -19,7 +19,7 @@
 ## Как запустить
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/IlyaGolyb/Booking-system.git](https://github.com/IlyaGolyb/Diploma-project.git
+   git clone https://github.com/IlyaGolyb/Diploma-project.git
 2. Окрыть проект в IntelliJ IDEA.
 3. Перед запуском проверить конфигурационные файлы (application.properties или аналогичные) и при необходимости скорректировать сетевые настройки под ваше локальное окружение.
 4. Запустить главный класс приложения
